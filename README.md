@@ -1,5 +1,7 @@
 # ImageSplitter
 
+Unfinished yet working small program. Created new repository for better one (ImageSlicer) which uses picocli package.
+
 Split spritesheets into separate images.
 
 ## Features
